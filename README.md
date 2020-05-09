@@ -33,3 +33,6 @@ Preview the content directly,*bravo*
 
 you can [download the enhanced version](https://github.com/longforus/IconViewer/releases)  and install it manually in:
 `Preferences/Settings->Plugins->Install plugin from disk`
+
+
+Recommand [Android Drawable Preview](https://plugins.jetbrains.com/plugin/10730-android-drawable-preview/), that are powerful.
